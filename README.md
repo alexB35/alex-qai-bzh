@@ -1,5 +1,5 @@
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-green)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-Automation-orange)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-Automation-green)
 ![Postman](https://img.shields.io/badge/Postman-API_Testing-orange)
 ![Jira](https://img.shields.io/badge/Jira-Test_Management-blue)
 ![Xray](https://img.shields.io/badge/Xray-Test_Management-blue)
