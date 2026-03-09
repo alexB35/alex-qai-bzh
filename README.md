@@ -11,7 +11,7 @@ QA Automation Engineer focused on test automation, API testing and GenAI testing
 
 ## Background
 
-Former Tier 3 Production Support Engineer with strong experience in:
+Former Tier 3 Production Support Engineer with strong experience in :
 
 - troubleshooting complex production issues
 - root cause analysis
