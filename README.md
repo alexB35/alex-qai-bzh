@@ -98,4 +98,4 @@ Currently exploring:
 
 ## Contact
 
-LinkedIn: https://linkedin.com/in/xxxx
+](https://www.linkedin.com/in/alexandre-bernard-auto-qai-35fr)
