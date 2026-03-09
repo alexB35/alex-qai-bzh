@@ -3,6 +3,8 @@
 ![Postman](https://img.shields.io/badge/Postman-API_Testing-orange)
 ![Jira](https://img.shields.io/badge/Jira-Test_Management-blue)
 ![Xray](https://img.shields.io/badge/Xray-Test_Management-blue)
+![Oracle SQL](https://img.shields.io/badge/Oracle-SQL-red)
+![MS SQL](https://img.shields.io/badge/SQL-Database-red)
 ![GenAI Testing](https://img.shields.io/badge/GenAI-Testing-purple)
 
 # 👋 Hi, I'm Alexandre
