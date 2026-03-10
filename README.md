@@ -23,7 +23,7 @@ Former Tier 3 Production Support Engineer with strong experience in :
 - root cause analysis
 - investigating and resolving complex production incidents on multi-component systems
 - performing functional and regression testing prior to production releases
-- data validation using SQL queries
+- SQL-based data validation and correction in production
 - monitoring system performance and ensuring stability of critical business applications
 - reproducing defects and delivering detailed incidents reports
 - working with development teams to resolve incidents
