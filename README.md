@@ -76,11 +76,11 @@ Examples of QA workflow used in this project.
 
 Jira bug example:
 
-![Jira Bug](demo/jira-bug-example.png)
+Screenshot in progress
 
 Automation test run:
 
-![Automation](demo/automation-test-run.png)
+Screenshot in progress
 
 ## Learning & Research
 
@@ -91,13 +91,11 @@ Currently exploring:
 - LLM hallucination detection
 - AI-assisted test generation
 
-
 ## Certifications
 
 - ISTQB Certified Tester – Foundation Level (CTFL)
-- ISTQB GenAI
-
+- ISTQB CT-GenAI
 
 ## Contact
 
-](https://www.linkedin.com/in/alexandre-bernard-auto-qai-35fr)
+https://www.linkedin.com/in/alexandre-bernard-auto-qai-35fr
