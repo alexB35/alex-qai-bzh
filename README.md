@@ -6,6 +6,7 @@
 ![Oracle SQL](https://img.shields.io/badge/Oracle-SQL-red)
 ![MS SQL](https://img.shields.io/badge/SQL-Database-red)
 ![GenAI Testing](https://img.shields.io/badge/GenAI-Testing-purple)
+![ISTQB](https://img.shields.io/badge/ISTQB-Certified-white)
 
 # 👋 Hi, I'm Alexandre
 
@@ -96,7 +97,6 @@ Currently exploring:
 - ISTQB Certified Tester – Foundation Level (CTFL)
 - ISTQB GenAI
 
-- ![ISTQB](https://img.shields.io/badge/ISTQB-Certified-blue)
 
 ## Contact
 
