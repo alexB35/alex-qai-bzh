@@ -10,7 +10,8 @@
 
 # 👋 Hi, I'm Alexandre
 
-QA Automation Engineer focused on **test automation, functional testing, API testing and GenAI testing**.
+QA Automation Engineer focused on **test automation, functional testing, API testing and GenAI testing.**
+
 Currently working for critical national systems handling sensitive data (GDPR).
 
 ---
@@ -58,6 +59,8 @@ Former Tier 3 Production Support Engineer with strong experience in :
 - VS Code
 - Oracle SQL Database
 - Microsoft SQL Server
+- Kibana
+- Prometheus
 
 ---
 
