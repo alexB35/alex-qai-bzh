@@ -123,7 +123,7 @@ Current focus areas in my QA experimentation:
 ## Certifications
 
 - **ISTQB Certified Tester – Foundation Level (CTFL)** ✅ Completed
-- **ISTQB CT-GenAI** - In progress - 🟡 In Progress
+- **ISTQB CT-GenAI** - 🟡 In Progress
 - **ISTQB CT-TAL** – 🔵 Planned
 
 ---
