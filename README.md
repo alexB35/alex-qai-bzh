@@ -78,13 +78,20 @@ Former Tier 3 Production Support Engineer with strong experience in :
 The following diagram illustrates the QA workflow implemented across my projects.
 
 A [User Story - Jira] --> B [Test Case Design]
+
 B --> C [Automation Development]
+
 C --> D [Test Execution]
+
 D --> E {Defects Found?}
 
+
 E -- Yes --> F [Bug Report - Jira]
+
 F --> G [Fix by Development]
+
 G --> D
+
 
 E -- No --> H [Test Reporting]
 
