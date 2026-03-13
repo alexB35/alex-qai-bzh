@@ -20,8 +20,7 @@ Currently working for critical national systems handling sensitive data (GDPR).
 
 Former Tier 3 Production Support Engineer with strong experience in :
 
-- root cause analysis
-- investigating and resolving complex production incidents on multi-component systems
+- root cause analysis and resolution of complex production incidents on multi-component systems
 - performing functional and regression testing prior to production releases
 - SQL-based data validation and correction in production
 - monitoring system performance and ensuring stability of critical business applications
@@ -65,34 +64,21 @@ Former Tier 3 Production Support Engineer with strong experience in :
 
 ---
 
-## What I'm working on
-
-- QA automation frameworks
-- API testing and automation
-- GenAI testing and meta-prompting
-- Test management with Jira and Xray
-
----
-
 ## Featured Projects
 
-- **QA Automation Portfolio** – End-to-end automation testing examples, including UI and API tests with Robot Framework and Playwright. Demonstrates real-world scenarios, user stories, and test automation practices.
-- **GenAI Testing Experiments** – AI-assisted testing experiments, using large language models to support test case generation, validation, and exploratory QA. Showcases practical approaches to improve testing efficiency with AI.
-- **QA Testing Lab** – Sandbox for exploratory QA projects, hands-on practice, and experimenting with different QA scenarios.
+- **QA Automation Portfolio** – End-to-end automation testing examples, including UI and API tests with Robot Framework and Playwright, showcases real-world scenarios and test automation practices.
+  
+- **GenAI Testing Experiments** – AI-assisted testing to support test case and test script generation, as well as exploratory QA.
+  
+- **QA Testing Lab** – Sandbox for diverse QA experiments and hands-on learning.
 
 ---
 
 ## Workflow
 
-A typical QA workflow implemented across my projects, showing integration of test planning, automation, bug tracking, and reporting:
+A typical QA workflow implemented across my projects, showing integration of test planning, automation, bug tracking, integration and reporting:
 
 Jira test cases → Automation tests → Bug creation → GitHub → Test reporting
-
-- **Jira** – Plan and document test cases and user stories.
-- **Automation Tests** - Execute end-to-end UI, API, and exploratory tests.
-- **Bug Creation** – Capture defects as Jira tickets for traceability.
-- **GitHub** – Store test scripts, maintain version control, and integrate CI/CD workflows.
-- **Test Reporting** – Generate detailed reports for transparency and metrics-driven QA.
 
 ---
 
@@ -107,16 +93,6 @@ Examples of QA workflow used in this project.
 - Automation test run:
 
 **Screenshot in progress**
-
----
-
-## Learning & Research
-
-Current focus areas in my QA experimentation:
-
-- AI-assisted test case generation and validation
-- Using GenAI to support exploratory and automation testing
-- Improving prompt design and test input quality
 
 ---
 
